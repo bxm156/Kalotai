@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content" android:orientation="vertical">
+  
+
+<ImageView android:id="@+id/ImageView01" android:layout_width="wrap_content" android:layout_height="wrap_content"></ImageView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewName" android:layout_marginLeft="10px" android:text="Name....................." android:layout_marginTop="10px" android:gravity="center" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewNickname" android:layout_marginLeft="10px" android:text="Nickname..............." android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewType" android:layout_marginLeft="10px" android:text="Type......................." android:layout_marginTop="420px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewLevel" android:layout_marginLeft="10px" android:text="Level......................." android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Health" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewHealth" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Experience" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewExperience" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Constitution" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewConstitution" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Strength" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewStrength" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Endurance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewEndurance" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Agility" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewAgility" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Intelligence" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewIntelligence" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Wisdom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewWisdom" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+<TextView android:text="Charisma" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TokrytTextViewCharisma" android:layout_marginLeft="10px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+
+
+
+
+</LinearLayout>

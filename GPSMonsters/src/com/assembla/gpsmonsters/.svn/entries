@@ -1,0 +1,212 @@
+9
+
+dir
+586
+http://subversion.assembla.com/svn/GPSMonsters/GPSMonsters/src/com/assembla/gpsmonsters
+http://subversion.assembla.com/svn/GPSMonsters
+
+
+
+2010-12-03T21:59:32.779084Z
+586
+bryanmarty
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+07463c43-a656-4446-a313-d7f40240879c
+
+Creature.java
+file
+
+
+
+
+2010-12-03T13:58:30.000000Z
+6b4181f3158f3883fd0a29e6464302c1
+2010-12-03T10:34:17.972419Z
+570
+mvd5
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18460
+
+DebugSettings.java
+file
+
+
+
+
+2010-11-22T06:03:59.000000Z
+6c4216fae44e265a960e997d2cc0ae47
+2010-11-20T01:02:17.424412Z
+420
+bryanmarty
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+228
+
+GPSMonsters.java
+file
+
+
+
+
+2010-12-03T13:58:30.000000Z
+8fbfb7b4346e77b60c6fb562d8f1ab29
+2010-12-02T17:47:54.343152Z
+529
+exy26
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5583
+
+Player.java
+file
+
+
+
+
+2010-11-22T06:04:00.000000Z
+f36fc12e4cd5c5d8edbdaeaf4dd0e196
+2010-10-30T20:16:54.235458Z
+261
+bryanmarty
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1137
+
+battle
+dir
+
+database
+dir
+
+energy
+dir
+
+engine
+dir
+
+gamepanels
+dir
+
+krytpedia
+dir
+
+krytselect
+dir
+
+location
+dir
+
+particleengine
+dir
+
+sound
+dir
+
+storyboard
+dir
+
+tileengine
+dir
+
+timemodule
+dir
+
+tokryt
+dir
+
+travelpoints
+dir
+
+weather
+dir
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:id = "@+id/krytrow"
+  android:layout_margin="1dip"
+  android:gravity = "center"
+  android:shrinkColumns = "0" 
+  android:onClick = "krytSelect"
+  android:longClickable = "true"
+  
+ > 
+ <ImageView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/krytpic"
+  ></ImageView>
+  
+ 
+ <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/krytname"
+  android:text = "bad"
+  android:textSize ="13sp"
+  android:padding = "1dip"
+  ></TextView>
+  
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/krytlevel"
+  android:text = "bad"
+  android:textSize ="13sp"  
+  android:padding = "1dip"
+  ></TextView>
+  
+  <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/kryth"
+  android:text = "bad"  
+  android:textSize ="13sp"
+  android:padding = "1dip"
+  ></TextView>
+  
+    <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/kryta"
+  android:text = "bad"
+  android:textSize ="13sp"  
+  android:padding = "1dip"
+  ></TextView>
+  
+    <TextView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:id = "@+id/krytd"
+  android:text = "bad"
+  android:textSize ="13sp"    
+  android:padding = "1dip"
+  
+  ></TextView>
+  
+</TableRow>

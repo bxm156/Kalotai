@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+  android:background="@drawable/krytpedia_background">
+  
+  <TextView android:layout_height="wrap_content"
+   android:gravity="center"
+   android:layout_width="fill_parent"
+   android:text="Krytpedia"
+   android:id="@+id/KrytpediaTitle"
+   android:shadowColor="#000"
+   android:textSize = "30sp"
+   android:shadowDx="1.2"
+   android:shadowDy="1.2"
+   android:shadowRadius="1.2"
+   android:textColor="#FFFFFF"></TextView>
+   
+   
+   <Button android:id ="@+id/creaturesButton"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:text="Creatures"
+    android:onClick = "kryts"
+    android:shadowColor="#000"
+    android:textSize = "20sp"
+    android:shadowDx="1.2"
+    android:shadowDy="1.2"
+    android:shadowRadius="1.2"
+	android:paddingTop = "10dip"
+    android:background="#17170445" 
+    android:textColor="#FFFFFF"></Button> 
+     
+     <Button android:id ="@+id/storyButton"
+     android:layout_width="fill_parent" 
+     android:layout_height="wrap_content"
+     android:text="Story"
+android:shadowColor="#000"
+   android:textSize = "20sp"
+   android:shadowDx="1.2"
+   android:shadowDy="1.2"
+   android:shadowRadius="1.2"	android:paddingTop = "10dip"
+     android:onClick = "story"
+     android:background="#17170445" android:textColor="#FFFFFF"></Button> 
+     
+     <Button android:id ="@+id/tutorialButton"
+     android:layout_width="fill_parent" 
+     android:layout_height="wrap_content"
+     android:text="Tutorial"
+android:shadowColor="#000"
+   android:textSize = "20sp"
+   android:shadowDx="1.2"
+   android:shadowDy="1.2"
+   android:shadowRadius="1.2"	android:paddingTop = "10dip"
+     android:onClick = "tutorial"
+     android:background="#17170445" android:textColor="#FFFFFF"></Button> 
+     
+      <TextView android:layout_height="wrap_content"
+   android:gravity="left"
+   android:layout_width="fill_parent"
+   android:text=""
+   android:id="@+id/KrytpediaStory"
+   android:shadowColor="#000"
+   android:textSize = "20sp"
+   android:shadowDx="1.2"
+   android:shadowDy="1.2"
+   android:shadowRadius="1.2"
+   ></TextView>
+     
+   <ScrollView android:id="@+id/krytpediaScrollView" 
+  android:layout_width="fill_parent" 
+  android:layout_height="wrap_content"
+  >
+ 
+  <TableLayout android:id="@+id/krytpediaTable" 
+  android:layout_width="fill_parent" 
+  android:layout_height="wrap_content" 
+  android:stretchColumns = "0" 
+  android:gravity="center"
+  android:paddingTop = "10dip"
+  android:paddingLeft = "10dip"
+  android:paddingRight = "10dip"
+  >
+  </TableLayout>
+    
+    </ScrollView>
+    
+  
+</LinearLayout>

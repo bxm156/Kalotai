@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:orientation="vertical" android:background="@drawable/krytpedia_background">
+<TextView android:layout_height="wrap_content" android:gravity="center" android:layout_width="fill_parent" android:text="Krytpedia" android:id="@+id/KrytpediaTextViewTitle" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView><ImageView android:layout_height="450px" android:layout_width="450px" android:layout_marginLeft="20px" android:layout_marginRight="20px" android:layout_marginTop="30px" android:id="@+id/CreatureImage"></ImageView><TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:gravity="left" android:text="Name: ........................" android:layout_marginLeft="10px" android:id="@+id/KrytpediaTextViewName" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2" android:layout_marginTop="10px"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10px" android:text="Type: .........." android:id="@+id/KrytpediaTextViewType" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2" android:layout_marginLeft="20px"></TextView>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Description:" android:id="@+id/KrytpediaTextViewDescription" android:layout_marginTop="10px" android:layout_marginLeft="20px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView><TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="10px" android:layout_marginTop="5px" android:scrollbars="vertical" android:text="CONTENT" android:layout_marginBottom="10px" android:id="@+id/KrytpediaTextViewDescriptionContent" android:layout_marginLeft="30px" android:shadowColor="#000" android:shadowDx="1.2" android:shadowDy="1.2" android:shadowRadius="1.2"></TextView>
+
+
+
+</LinearLayout>

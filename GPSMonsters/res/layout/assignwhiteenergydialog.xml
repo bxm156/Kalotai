@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" android:layout_height="fill_parent" android:orientation="vertical" android:minWidth="400px">
+
+
+
+
+
+
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Select the amount and type:" android:layout_marginLeft="20px"></TextView>
+
+
+
+<LinearLayout android:id="@+id/LinearLayout01" android:gravity="center" android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" android:paddingTop="20px"><Spinner android:layout_width="wrap_content" android:id="@+id/energySpinner" android:layout_height="60px"></Spinner><Button android:text="+" android:layout_width="75px" android:layout_height="50px" android:id="@+id/energyconvertplusbutton"></Button>
+<EditText android:layout_width="75px" android:gravity="center" android:layout_height="60px" android:numeric="integer" android:singleLine="true" android:password="false" android:autoText="false" android:clickable="true" android:phoneNumber="true" android:capitalize="none" android:id="@+id/energyamounteditabletext" android:text="5"></EditText>
+<Button android:text="-" android:layout_width="75px" android:layout_height="50px" android:id="@+id/energyconvertminusbutton"></Button>
+
+
+
+<LinearLayout android:id="@+id/LinearLayout02" android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center" android:paddingTop="20px"><Button android:layout_width="wrap_content" android:layout_height="60px" android:text="Cancel"  android:paddingLeft="40px" android:paddingRight="40px" android:layout_marginRight="40px" android:id="@+id/energyconvertcancelbutton"></Button>
+<Button android:layout_width="wrap_content" android:layout_height="60px" android:paddingRight="40px" android:paddingLeft="40px" android:layout_marginLeft="40px" android:text="Convert" android:id="@+id/energyconvertbutton"></Button>
+</LinearLayout>
+
+</LinearLayout>
+
+</LinearLayout>

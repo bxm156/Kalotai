@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/GPSMonsters/!svn/ver/581/GPSMonsters/src/com/assembla/gpsmonsters/engine
+END
+GameManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/GPSMonsters/!svn/ver/486/GPSMonsters/src/com/assembla/gpsmonsters/engine/GameManagerInterface.java
+END
+EncounterThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/GPSMonsters/!svn/ver/453/GPSMonsters/src/com/assembla/gpsmonsters/engine/EncounterThread.java
+END
+GameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/GPSMonsters/!svn/ver/528/GPSMonsters/src/com/assembla/gpsmonsters/engine/GameManager.java
+END
+DrawingThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/GPSMonsters/!svn/ver/528/GPSMonsters/src/com/assembla/gpsmonsters/engine/DrawingThread.java
+END
+Vector2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/GPSMonsters/!svn/ver/506/GPSMonsters/src/com/assembla/gpsmonsters/engine/Vector2D.java
+END
+GamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GPSMonsters/!svn/ver/507/GPSMonsters/src/com/assembla/gpsmonsters/engine/GamePanel.java
+END
+GameManagerConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/GPSMonsters/!svn/ver/498/GPSMonsters/src/com/assembla/gpsmonsters/engine/GameManagerConnector.java
+END
+GameActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/GPSMonsters/!svn/ver/581/GPSMonsters/src/com/assembla/gpsmonsters/engine/GameActivity.java
+END
